@@ -19,6 +19,7 @@ function component() {
     return element;
 }
 
+//Testing
 
 
 document.body.appendChild(component());
